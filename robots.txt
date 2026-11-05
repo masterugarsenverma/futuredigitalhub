@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://masterugarsenverma.github.io/sitemap.xml
+Sitemap: https://masterugarsenverma.github.io/futuredigitalhub/sitemap.xml
